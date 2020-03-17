@@ -2,6 +2,9 @@
 ![kd](https://i.ibb.co/Yptm4k7/mura.jpg)
 
 
+## Dataset:
+* To obtain the dataset please contact or email StanfordMLGroup or email them. They will send a download along with a consent contract form.
+
 * MURA (musculoskeletal radiographs) is a large dataset of bone X-rays.
 
 
