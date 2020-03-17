@@ -10,6 +10,6 @@
 
 
 ## Dataset:
-* To obtain the dataset please contact or email [**StanfordMLGroup**](https://stanfordmlgroup.github.io/) or email them. They will send a download link along with a consent contract form.
+* To obtain the dataset please contact or email [**StanfordMLGroup**](https://stanfordmlgroup.github.io/) or email them. They will send a download link along with a **Research Use Agreement** contract form.
 
 
