@@ -1,4 +1,4 @@
-# Mura-Stanford-Bone-Xray-abnormalities-detection
+# Mura Stanford Bone X-Ray Abnormalities Detection*
 ![kd](https://i.ibb.co/Yptm4k7/mura.jpg)
 
 
@@ -12,4 +12,4 @@
 ## Dataset:
 * To obtain the dataset please contact or email [**StanfordMLGroup**](https://stanfordmlgroup.github.io/) or email them. They will send a download link along with a **Research Use Agreement** contract form.
 
-
+* On going Project
