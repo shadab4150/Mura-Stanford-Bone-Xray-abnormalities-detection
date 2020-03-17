@@ -13,37 +13,37 @@
 * XR_FINGER
 
 
-![kd](https://i.ibb.co/vcm4wyF/finger.png)
+![kd](https://i.ibb.co/vcm4wyF/finger.png "X-ray Finger")
 
 
 * XR_FOREARM
 
 
-![kd](https://i.ibb.co/qYyPvsq/forearm.png)
+![kd](https://i.ibb.co/qYyPvsq/forearm.png "X-ray Forearm")
 
 
 * XR_HAND
 
 
-![kd](https://i.ibb.co/9ghXXNY/hand.png)
+![kd](https://i.ibb.co/9ghXXNY/hand.png "X-ray Hand")
 
 
 * XR_HUMERUS
 
 
-![kd](https://i.ibb.co/sgCgPTD/humerus.png)
+![kd](https://i.ibb.co/sgCgPTD/humerus.png "X-ray Humerus")
 
 
 * XR_SHOULDER
 
 
-![kd](https://i.ibb.co/nbXHSsF/shoulder.png)
+![kd](https://i.ibb.co/nbXHSsF/shoulder.png "X-ray Shoulder")
 
 
 * XR_WRIST
 
 
-![kd](https://i.ibb.co/0c80bGY/wrist.png)
+![kd](https://i.ibb.co/0c80bGY/wrist.png "X-ray Wrist")
 
 
 **MURA is one of the largest public radiographic image datasets offered by Stanford University.**
