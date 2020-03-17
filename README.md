@@ -7,7 +7,7 @@
 * XR_ELBOW
 
 
-![kd](https://i.ibb.co/v40DHWj/elbow.png)
+![kd](https://i.ibb.co/v40DHWj/elbow.png."X-ray Elbow")
 
 
 * XR_FINGER
