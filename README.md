@@ -4,6 +4,19 @@
 
 ### MURA **(musculoskeletal radiographs)** is a large dataset of bone X-rays of seven body parts.
 
+
+**MURA is one of the largest public radiographic image datasets offered by Stanford University.**
+
+
+
+## Dataset:
+* To obtain the dataset please contact or email [**StanfordMLGroup**](https://stanfordmlgroup.github.io/) or email them. They will send a download link along with a **Research Use Agreement** contract form.
+
+
+*On going Project*
+
+
+
 * XR_ELBOW
 
 
@@ -46,11 +59,3 @@
 ![kd](https://i.ibb.co/0c80bGY/wrist.png "X-ray Wrist")
 
 
-**MURA is one of the largest public radiographic image datasets offered by Stanford University.**
-
-
-
-## Dataset:
-* To obtain the dataset please contact or email [**StanfordMLGroup**](https://stanfordmlgroup.github.io/) or email them. They will send a download link along with a **Research Use Agreement** contract form.
-
-*On going Project*
