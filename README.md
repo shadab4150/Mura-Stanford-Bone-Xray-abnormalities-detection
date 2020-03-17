@@ -4,6 +4,9 @@
 
 ### MURA **(musculoskeletal radiographs)** is a large dataset of bone X-rays of seven body parts.
 
+### Objective:
+* ** To build  an image classifier that can distinguish between Normal and Abnormal bone Deformaties by seeing the X-Ray images.**
+
 
 **MURA is one of the largest public radiographic image datasets offered by Stanford University.**
 
